@@ -5,4 +5,5 @@
 ## 1. 环境准备
 
 本项目的代码都以Jupyter Notebook的形式呈现，可以按照下面的步骤在本地安装Jupyter Notebook。
-[Windows11 WSL下安装Jupyter Notebook](WSL下安装Jupyter Notebook.md)
+
+[Windows11 WSL下安装Jupyter Notebook](WSL下安装JupyterNotebook.md)
